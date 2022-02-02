@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1UtUiTkR19O1p3W4P00aHOz730aWcOyO7FNgToBVGWJCzi8XGLWrszuGGDCKLowNYtBVgQUKOzASSHBgkE4pbw==",
+  "success": true,
+  "projectFilePath": "/Users/johnk/repos/simple-compiler/simple-compiler.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnk/.nuget/packages/system.commandline/2.0.0-beta2.21617.1/system.commandline.2.0.0-beta2.21617.1.nupkg.sha512",
+    "/Users/johnk/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
